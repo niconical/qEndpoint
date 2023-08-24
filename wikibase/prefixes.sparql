@@ -27,3 +27,4 @@ PREFIX pr: <http://www.wikidata.org/prop/reference/>
 PREFIX prv: <http://www.wikidata.org/prop/reference/value/>
 PREFIX prn: <http://www.wikidata.org/prop/reference/value-normalized/>
 PREFIX wdno: <http://www.wikidata.org/prop/novalue/>
+PREFIX bd: <http://www.bigdata.com/rdf#>
